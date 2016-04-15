@@ -16,5 +16,15 @@ namespace CheckeadorModulo11
         {
             InitializeComponent();
         }
+
+        public int Mod11(string num)
+        {
+            int numCheck, numLen;
+            numLen = num.Length;
+
+
+
+            return numCheck;
+        }
     }
 }
